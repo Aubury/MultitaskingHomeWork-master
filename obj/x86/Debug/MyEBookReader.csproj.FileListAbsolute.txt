@@ -1,0 +1,9 @@
+D:\ПРОГРАММИРОВАНИЕ\3_семестр\Multithreading\MultitaskingHomeWork-master\MultitaskingHomeWork-master\bin\Debug\MyEBookReader.exe
+D:\ПРОГРАММИРОВАНИЕ\3_семестр\Multithreading\MultitaskingHomeWork-master\MultitaskingHomeWork-master\bin\Debug\MyEBookReader.pdb
+D:\ПРОГРАММИРОВАНИЕ\3_семестр\Multithreading\MultitaskingHomeWork-master\MultitaskingHomeWork-master\obj\x86\Debug\MyEBookReader.MainForm.resources
+D:\ПРОГРАММИРОВАНИЕ\3_семестр\Multithreading\MultitaskingHomeWork-master\MultitaskingHomeWork-master\obj\x86\Debug\MyEBookReader.Properties.Resources.resources
+D:\ПРОГРАММИРОВАНИЕ\3_семестр\Multithreading\MultitaskingHomeWork-master\MultitaskingHomeWork-master\obj\x86\Debug\MyEBookReader.csproj.GenerateResource.Cache
+D:\ПРОГРАММИРОВАНИЕ\3_семестр\Multithreading\MultitaskingHomeWork-master\MultitaskingHomeWork-master\obj\x86\Debug\MyEBookReader.csproj.CoreCompileInputs.cache
+D:\ПРОГРАММИРОВАНИЕ\3_семестр\Multithreading\MultitaskingHomeWork-master\MultitaskingHomeWork-master\obj\x86\Debug\MyEBookReader.exe
+D:\ПРОГРАММИРОВАНИЕ\3_семестр\Multithreading\MultitaskingHomeWork-master\MultitaskingHomeWork-master\obj\x86\Debug\MyEBookReader.pdb
+D:\ПРОГРАММИРОВАНИЕ\3_семестр\Multithreading\MultitaskingHomeWork-master\MultitaskingHomeWork-master\obj\x86\Debug\MyEBookReader.csprojResolveAssemblyReference.cache
